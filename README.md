@@ -21,6 +21,11 @@ and can be set up to run with every commit to version control.
 3. Code that has automated tests is much easier for future you and other developers to work on.
 4. Helps prevent accidental regression (bugs in previously working code) when you make changes.
 
+The Testing Pyramid
+
+![Testing Pyramid](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
+[Source: martinfowler.com](https://martinfowler.com/articles/practical-test-pyramid.html)
+
 ## What is TDD?
 
 TDD is a software development practice or discipline of writing tests before the code being tested in order to guide
