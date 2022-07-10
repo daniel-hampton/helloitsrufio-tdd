@@ -2,7 +2,7 @@
 
 Outline for stream on Test Driving Development
 
-- Part 1: TDD is JS (spend most of the time here, maybe come up with more real-world examples than the starter functions)
+- Part 1: TDD in JS (spend most of the time here, maybe come up with more applicable real-world examples than the starter functions)
 
 Time permitting...or skip to Cypress e2e test if it's more interesting.
 
