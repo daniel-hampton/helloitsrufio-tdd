@@ -1,0 +1,20 @@
+{
+  "name": "part02",
+  "version": "1.0.0",
+  "description": "with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --loader=ts-node/esm src/**/*.test.ts",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}

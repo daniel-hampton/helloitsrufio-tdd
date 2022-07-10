@@ -5,7 +5,7 @@
 import chai from "chai";
 
 // Local
-import { addTwo } from "../index.js"; // notice we're going up a level here.
+import { addTwo } from "../index";
 
 // This is how we opt in to the 'expect' syntax with the Chai assertion library.
 const expect = chai.expect;
