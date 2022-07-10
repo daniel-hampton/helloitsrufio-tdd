@@ -2,6 +2,13 @@
 
 Outline for stream on Test Driving Development
 
+- Part 1: TDD is JS (spend most of the time here, maybe come up with more real-world examples than the starter functions)
+
+Time permitting...or skip to Cypress e2e test if it's more interesting.
+
+- Part 2: Show how we would configure the same thing with Typescript.
+- Part 3/4: Test a component in React with Jest. Show an End to End test with Cypress.
+
 ## Why write automated tests for code?
 
 Chances are you probably test your code a little before you send it off to your boss or deploy your website.
