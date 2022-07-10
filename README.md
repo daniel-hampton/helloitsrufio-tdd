@@ -24,6 +24,7 @@ and can be set up to run with every commit to version control.
 The Testing Pyramid
 
 ![Testing Pyramid](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
+
 [Source: martinfowler.com](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 ## What is TDD?
@@ -43,6 +44,7 @@ the development of the code. It has several benefits compared to writing tests a
 You might hear these steps referred to as Red, Green, Refactor.
 
 ![TDD Process](https://miro.medium.com/max/1400/1*tZSwCigaTaJdovyWlp5uBQ.jpeg)
+
 [Source: Medium](https://medium.com/@vaibhav.dby/test-driven-development-understanding-the-business-better-9c4cae4cb990)
 
 1. Add a test
@@ -63,4 +65,5 @@ working with a team of multiple developers. Writing tests can be difficult and r
 slower at first, but with practice you will develop a rhythm and may even be faster at developing working code.
 
 ![TDD Process Detailed](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TDD_Global_Lifecycle.png/1920px-TDD_Global_Lifecycle.png)
+
 [Source Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
